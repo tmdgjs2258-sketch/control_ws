@@ -1,0 +1,8 @@
+build/
+devel/
+install/
+log/
+.catkin_tools/
+*.bag
+*.swp
+.vscode/*.log
